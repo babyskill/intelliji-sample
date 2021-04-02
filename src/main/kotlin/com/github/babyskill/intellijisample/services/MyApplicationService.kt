@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.babyskill.intellijisample.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.babyskill.intellijisample.MyBundle
 
 class MyApplicationService {
 
